@@ -1,0 +1,5 @@
+``` 
+101;Dom Quixote;Miguel de Cervantes;Ficção;45.00;10
+102;1984;George Orwell;Distopia;30.50;15
+103;O Pequeno Príncipe;Antoine de Saint-Exupéry;Infantil;25.00;5
+``` 
